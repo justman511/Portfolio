@@ -131,7 +131,7 @@ img:hover {
 /***** NAVBAR STYLING *****/
 .Navbar {
     overflow: hidden; /* This ensures that any content that overflows beyond the boundary of our nav bar is not displayed */
-    background-color: #363636; /* This colors the navbar black */
+    background-color:  #363636; /* This colors the navbar to Dark Grey */
     position: fixed; /* This keeps the navbar at the top of the screen as we scroll */
     top: 0; /* This ensures no space is displayed above the navbar */
     width: 100%; /* This makes the navbar span the entire width of the page */
@@ -257,7 +257,7 @@ img:hover {
     padding: 0.63rem ; /* This adds padding around the content within the column */
     padding-top: 1.9%;
     height: 25rem; /* This sets the height of the column to 400px -  this may need to be adjusted depending on the text you enter */
-   background-color: #696969; /*#4d4d4d;  Sets the background color of the columns with class Column_2 */
+   background-color: #696969; /*#4d4d4d;  Sets the background color of the columns to Dim Grey, using class Column_2 */
    
 }
 
