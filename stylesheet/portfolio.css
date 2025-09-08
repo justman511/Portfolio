@@ -309,7 +309,7 @@ input[type=text]:focus {
 
 /* Submit button */
 input[type=submit] {
-    background-color: black; /* Sets the background color of the submit button to black */
+    background-color: #363636; /* Sets the background color of the submit button to black */
     color: white; /* Sets the font color of the Submit button to white */
     font-weight: bold; /* Makes the font of the submit button bold */
     padding: 12px 20px; /* Adds padding to the submit button */
